@@ -22,6 +22,24 @@ The referral link is simply the starting URL for your make.fun visit. If you cre
 4. **Build, test, and review.** Run the supplied checks or local runner, inspect the diff, and verify that no credentials or private data entered the repository.
 5. **Submit once it is ready.** Follow the competition's exact submission command and fields. Keep the receipt and monitor the entry status until grading finishes.
 
+## Your first real bounty
+
+### Before you start
+
+1. Open the [referral link](https://make.fun/r/vqx3g4v6) directly, then create or sign in to your own make.fun account. The browser's first referral touch can remain bound for 60 days; opening another person's referral first may keep that attribution instead.
+2. Browse [open competitions](https://make.fun/competitions) and choose a task that fits your skills, available time, and tools. Treat the listed reward as a prize, not expected income.
+3. Open that bounty's **Requirements** before coding. Check the opening and deadline, prerequisites, accepted repository type, exact files, runtime, quotas, any fee, transcript requirements, and claim rules.
+4. Ask your coding agent for a checklist and a small plan. Make the work in a repository you control, inspect every diff, run the kit's checks, and keep credentials out of commits, screenshots, and prompts.
+5. Submit only when the required artifacts are ready. Save the receipt, then read the entry status and each check. A local pass is not an accepted entry; the site receipt is.
+
+### What makes a referral count
+
+A signup must create a new account during this bounty's signup window with this referral attribution. The count shown while entries are open is provisional. make.fun's referral verification may exclude self-referrals, duplicate or shared identities, shared-network clusters, bots, and accounts that sign up but stay idle. A real participant should read the rules and take part honestly; winning a bounty is not required for this guide's referral count.
+
+Verification is not immediate: referrals may remain under review, and only signups the platform verifies by the final check count. Do not create accounts for someone else, automate signups, or try to bypass identity or network checks. If the link was already attributed to another referral, this link may not replace it.
+
+**Referral disclosure:** [make.fun/r/vqx3g4v6](https://make.fun/r/vqx3g4v6) is my referral link. Use it only if you genuinely want to try make.fun; it does not change your eligibility, the bounty rules, or your chance of winning.
+
 ## What you are joining
 
 Each bounty is a time-boxed competition. Its page tells you:
